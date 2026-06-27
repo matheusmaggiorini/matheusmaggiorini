@@ -31,7 +31,6 @@ I'm building a career in software development and IT, combining my AI foundation
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-matheusmaggiorini-181717?style=flat&logo=github)](https://github.com/matheusmaggiorini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheusmaggiorini)
 
 ---
 
