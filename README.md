@@ -1,6 +1,6 @@
 # Matheus Maggiorini
 
-Computer Programming and Analysis @ Humber College
+Computer Programming and Analysis  Humber College
 
 Previously studied at FECAP (Brazil). Fortinet certified.
 
