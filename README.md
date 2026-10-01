@@ -1,36 +1,40 @@
-# Hi, I'm Matheus Maggiorini
+# Matheus Maggiorini
 
-**Computer Programming & Analysis** student at [Humber College](https://humber.ca) · Toronto, ON  
-Previously at [FECAP](https://fecap.br) (Brazil) · Fortinet certified
+**Junior Software Developer | Full-Stack Python & TypeScript | Toronto, ON**
 
-I like building things that solve real problems — from computer vision demos to full-stack apps that talk to systems that weren't meant to have an API.
+Computer Programming and Analysis student at [Humber College](https://humber.ca), building practical software with Python, FastAPI, React, TypeScript, SQL, and automation. I enjoy taking a real workflow, designing the solution end to end, and shipping something people can use.
 
-**Open to part-time work** in the Toronto/GTA area (up to 24 hrs/week).
+**Open to part-time Junior Software Developer, QA, IT Support, and campus technology opportunities in the GTA. Eligible to work in Canada.**
 
----
+## Featured projects
 
-### What I've been building
+### [Study Copilot](https://github.com/matheusmaggiorini/study-copilot)
+Local-first academic assistant for Blackboard Ultra. It synchronizes course content and grades, extracts deadlines from announcements, prioritizes the current week, and offers optional local AI assistance through Ollama.
 
-| Project | What it is |
-|---|---|
-| [**Study Copilot**](https://github.com/matheusmaggiorini/study-copilot) | Local Blackboard assistant — syncs courses, filters your week, alerts for deadlines, optional Ollama chat |
-| [**Simple Tech API**](https://github.com/matheusmaggiorini/simple-tech-api) | FastAPI backend with JWT auth, ML cash-flow forecasting, Monte Carlo simulation |
-| [**Simple Tech App**](https://github.com/matheusmaggiorini/simple-tech-app) | React financial dashboard wired to the API above |
-| [**Face Detection with Loading Bar**](https://github.com/matheusmaggiorini/Face-recognition-with-AI-) | OpenCV + webcam face detection with a visual loading bar |
+**Python · FastAPI · Next.js · React · SQLite · Playwright · Ollama**
 
----
+### [Simple Tech](https://github.com/matheusmaggiorini/simple-tech-app)
+Financial-management dashboard backed by a [FastAPI service](https://github.com/matheusmaggiorini/simple-tech-api). Built secure authentication, data upload and reporting flows, cash-flow forecasting with XGBoost, and Monte Carlo scenario simulations.
 
-### Skills
+**React · TypeScript · FastAPI · JWT · SQLite · scikit-learn · XGBoost · Docker**
 
-`Python` · `Java` · `JavaScript` · `TypeScript` · `SQL` · `FastAPI` · `React` · `Next.js` · `Playwright` · `OpenCV` · `Git`
+### [Face Detection with OpenCV](https://github.com/matheusmaggiorini/Face-recognition-with-AI-)
+Real-time webcam face detection prototype with a clear visual progress indicator.
 
----
+**Python · OpenCV**
 
-### Certifications
+## Technical toolkit
 
+`Python` · `Java` · `TypeScript` · `JavaScript` · `SQL` · `FastAPI` · `React` · `Next.js` · `Playwright` · `SQLite` · `Git` · `Docker` · `OpenCV`
+
+## Education and certifications
+
+- Humber College — Computer Programming and Analysis, in progress
+- FECAP — Technical Diploma in Artificial Intelligence
+- Cambridge English: C1 Advanced (CAE)
+- ILAC University Pathway Program (Pathway 3.4)
 - Fortinet Certified Fundamentals in Cybersecurity
-- Fortinet Certified Associate in Cybersecurity
 
----
+## Connect
 
-📍 Toronto, ON · [GitHub](https://github.com/matheusmaggiorini)
+[LinkedIn](https://www.linkedin.com/in/matheus-maggiorini-4684262b5) · [Email](mailto:mt.maggiorini@gmail.com) · [GitHub](https://github.com/matheusmaggiorini)
