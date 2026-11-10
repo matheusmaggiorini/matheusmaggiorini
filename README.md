@@ -1,12 +1,17 @@
 # Matheus Maggiorini
 
-**Junior Software Developer | Full-Stack Python & TypeScript | Toronto, ON**
+**Software Developer | Python, TypeScript, APIs & AI Automation | Toronto, ON**
 
-Computer Programming and Analysis student at [Humber College](https://humber.ca), building practical software with Python, FastAPI, React, TypeScript, SQL, and automation. I enjoy taking a real workflow, designing the solution end to end, and shipping something people can use.
+I'm a Computer Programming and Analysis student at [Humber College](https://humber.ca). I build full-stack products and workflow tools with Python, FastAPI, React, TypeScript, and SQL. I enjoy talking with users, understanding where a process breaks down, and turning that problem into software they can use.
 
-**Open to part-time Junior Software Developer, QA, IT Support, and campus technology opportunities in the GTA. Eligible to work in Canada.**
+**Seeking full-time remote Software Developer, Full-Stack, API Integration, and AI Automation roles with employers outside Canada that can engage a Toronto-based developer.**
 
 ## Featured projects
+
+### [O Rei — my game and features branch](https://github.com/MathPacifico15/o-rei/tree/rea-maggio-games-n-features)
+Co-created a mobile-first football career game and PWA with my partner. My work on the linked branch adds three minigames, career decisions, save-compatible state, and touch/keyboard controls. Automated checks and browser QA exercise 13 game modes. The repository is hosted under my partner's GitHub account; the branch link points directly to my contribution.
+
+**React · TypeScript · Next.js · Game logic · Persistence · Browser QA**
 
 ### [Study Copilot](https://github.com/matheusmaggiorini/study-copilot)
 Local-first academic assistant for Blackboard Ultra. It synchronizes course content and grades, extracts deadlines from announcements, prioritizes the current week, and offers optional local AI assistance through Ollama.
@@ -18,14 +23,9 @@ Financial-management dashboard backed by a [FastAPI service](https://github.com/
 
 **React · TypeScript · FastAPI · JWT · SQLite · scikit-learn · XGBoost · Docker**
 
-### [Face Detection with OpenCV](https://github.com/matheusmaggiorini/Face-recognition-with-AI-)
-Real-time webcam face detection prototype with a clear visual progress indicator.
-
-**Python · OpenCV**
-
 ## Technical toolkit
 
-`Python` · `Java` · `TypeScript` · `JavaScript` · `SQL` · `FastAPI` · `React` · `Next.js` · `Playwright` · `SQLite` · `Git` · `Docker` · `OpenCV`
+`Python` · `TypeScript` · `JavaScript` · `SQL` · `FastAPI` · `React` · `Next.js` · `REST APIs` · `Playwright` · `SQLite` · `Ollama` · `Git` · `Docker`
 
 ## Education and certifications
 
